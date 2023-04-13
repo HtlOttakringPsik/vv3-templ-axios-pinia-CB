@@ -1,9 +1,10 @@
 # vv3-templ-r-CB
 
-This template uses Vue 3 with Vite, Composition APi, Vue Router, FontAwesome, and Bootstrap 5
+This template uses Vue 3 with Vite, Composition APi, Vue Router, FontAwesome, axios and Bootstrap 5 
+
 Usage:
 ```
-npx degit robert-baumgartner/vv3-template-router-CB your-project
+npx degit https://github.com/thomaspsik/vv3-templ-r-axios-CB your-project
 ```
 
 07.05.2022: Fixed ESLint top level await warning
