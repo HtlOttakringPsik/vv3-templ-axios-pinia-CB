@@ -8,6 +8,7 @@ const myStore = useMyStore();
 <template>
   <div class="column items-center q-mt-md">
     <span class="text-h4">Home</span><br /><span>{{ myStore.message }}</span>
+    <SayHello name="Robert"></SayHello>
   </div>
-  <SayHello name="Robert"></SayHello>
+
 </template>
