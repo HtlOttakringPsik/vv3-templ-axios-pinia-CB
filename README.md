@@ -1,13 +1,13 @@
-# vv3-templ-r-CB
+# vv3-templ-axios-pinia-CB
 
-This template uses Vue 3 with Vite, Composition APi, Vue Router, FontAwesome, axios and Bootstrap 5 
+This template uses Vue 3 with Vite, Composition APi, Vue Router, FontAwesome, Pinia, axios and Bootstrap 5 
 Based on 
 https://github.com/Robert-Baumgartner/vv3-templ-r-CB and
 https://github.com/Robert-Baumgartner/client-templ.git
 
 Usage:
 ```
-npx degit https://github.com/thomaspsik/vv3-templ-r-axios-CB your-project
+npx degit https://github.com/thomaspsik/vv3-templ-axios-pinia-CB your-project
 ```
 
 
