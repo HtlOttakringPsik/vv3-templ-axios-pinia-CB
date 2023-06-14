@@ -7,7 +7,7 @@ https://github.com/Robert-Baumgartner/client-templ.git
 
 Usage:
 ```
-npx degit https://github.com/thomaspsik/vv3-templ-axios-pinia-CB your-project
+npx degit https://github.com/HtlOttakringPsik/vv3-templ-axios-pinia-CB.git your-project
 ```
 
 
