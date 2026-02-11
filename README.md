@@ -13,7 +13,7 @@ npx degit https://github.com/HtlOttakringPsik/vv3-templ-axios-pinia-CB.git your-
 
 ## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.vscode-typescript-vue-plugin).
+[VSCode](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=vue.volar).
 
 ## Customize configuration
 
@@ -37,7 +37,7 @@ npm run dev
 npm run build
 ```
 
-### Lint with [ESLint](https://eslint.org/)
+### Lint with [Biome](https://biomejs.dev/)
 
 ```sh
 npm run lint
