@@ -26,3 +26,8 @@ coverage
 *.njsproj
 *.sln
 *.sw?
+# private files to manage repo
+fullup.cmd
+package copy.json
+package_empty.json
+package-lock.json
